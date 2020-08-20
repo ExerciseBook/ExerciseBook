@@ -1,1 +1,1 @@
-![](banner.jpg)
+![](https://github.com/ExerciseBook/ExerciseBook/blob/master/banner.jpg?raw=true)
